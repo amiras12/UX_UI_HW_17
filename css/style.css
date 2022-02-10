@@ -1,0 +1,50 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 3%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 100%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    width: 80%;
+    margin-left: auto;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+    background-color: #F2EDE9;
+
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+img {
+    border-radius: 50%;
+}
+footer ul{
+    display: inline-block;
+    vertical-align: top;  
+}
+button{
+    border-radius: 50%;
+    width: 85px;
+    height: 85px;
+}
+.redbutton{
+    background-color: crimson;
+}
+.yellowbutton{
+    background-color: yellow;
+}
+.bluebutton{
+    background-color: turquoise;
+}
